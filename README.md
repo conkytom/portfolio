@@ -3,11 +3,11 @@
 
 ![Default Type Theme blog](https://bloc-global-assets.s3.amazonaws.com/portfolio/portfolio-kami.png)
 
-A free and open-source [Jekyll](http://jekyllrb.com) theme. Great for blogs and easy to customize.
+A free and open-source [Jekyll](https://jekyllrb.com) theme. Great for blogs and easy to customize.
 
 ## Get Started
 
-[Demo](http://madebymunsters.github.io/Lannister/)
+[Demo](https://madebymunsters.github.io/Lannister/)
 
 [Using Type](https://rohanchandra.github.io/project/type/)
 

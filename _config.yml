@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog/ (optional)
-url: "https://conkytom.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
+url: "https://conkytom.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -14,7 +14,7 @@ theme_settings:
      <p>I'm a fledgling developer learning whatever I can to be useful.</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a>.
+   Powered by <a href="https://jekyllrb.com">Jekyll</a>.
 
   # Icons
   rss: false
