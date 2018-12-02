@@ -10,7 +10,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>An Philadelphia Based Sofware Engineer</h1>
+     <h1>Philadelphia Based Sofware Engineer</h1>
      <p>A fresh developer learning whatever I can to be useful.</p>
   header_text_feature_image:
   footer_text: >
@@ -27,11 +27,7 @@ theme_settings:
   github: ConkyTom # github profile name, e.g. "madebymunsters"
   google_plus:
   instagram: ConkyTom
-<<<<<<< HEAD
   linkedin: https://www.linkedin.com/in/tom-conkwright # Full URL
-=======
-  linkedin: https://www.linkedin.com/in/tom-conkwright-33791773 # Full URL
->>>>>>> 6fe952cd969049f40ec90327498b549c48430b1d
   pinterest:
   reddit:
   soundcloud:
