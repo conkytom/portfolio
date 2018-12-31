@@ -11,3 +11,5 @@ CSV-simplified intends to create a web app that would allow the user to upload a
 At the moment I’ve only completed the most basic setup of this app. Using HTML, JavaScript, jQuery, set up using Angular, and using a library called PapaParse, the first attempt just allows the user to upload CSV, and the app displays that CSV on the page. A small first step for sure, but it’s something. I’m currently looking for collaborators to help with both the backend logic and the frontend appearance. As in depth as creating SQL like tools for the back end can get, the potential for displaying a wealth of options and data will require a well executed frontend design. Both of these tings I don’t quite have the experience or time to accomplish on my own.
 
 Anyone curious in how it works in its current version, or, better yet, contribute can find the GitHub repo [here](https://github.com/conkytom/CSV-simplified), and a Codepen of the current mechanics [here](https://codepen.io/anon/pen/JmWygV).
+
+There is also a working example setup [here on heroku](https://limitless-hamlet-92861.herokuapp.com/).

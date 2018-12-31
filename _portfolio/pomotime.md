@@ -1,13 +1,13 @@
 ---
 layout: post
-title: BlocTime
-thumbnail-path: "img/bloctime.png"
-short-description: BlocTime is a time managment tool using that utilizes the Pomodoro Technique.
+title: Pomo-Time
+thumbnail-path: "img/pomotime.png"
+short-description: Pomo-Time is a time managment tool using that utilizes the Pomodoro Technique.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/bloctime.png)
+![]({{ site.baseurl }}/img/pomotime.png)
 
 ## Explanation
 
@@ -33,4 +33,4 @@ The Pomodoro Technique, and this app's use of it, is a great tool for increasing
 
 [Try out the demo for yourself.](https://conkytom-pomodoro.herokuapp.com/)  The demo version has work sessions and break sessions that are only 5 seconds long just so you can test out the functionality of the Pomodoro sessions, and see that after 4 of them the user is allowed to take a 15 or 30 minute break.
 
-[See it on GitHub](https://github.com/conkytom/bloctime)
+[See it on GitHub](https://github.com/conkytom/Pomo-Time)
