@@ -1,7 +1,10 @@
-# Portfolio Kami Theme
-## Based on Type Theme
+# My Portfolio
+A Jekyll based theme.
 
-![Default Type Theme blog](https://bloc-global-assets.s3.amazonaws.com/portfolio/portfolio-kami.png)
+You can see the functioning portfolio [here](conkytom.com)
+
+
+## Based on Type Theme
 
 A free and open-source [Jekyll](https://jekyllrb.com) theme. Great for blogs and easy to customize.
 
